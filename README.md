@@ -32,9 +32,8 @@ Selected results:
 - Spectral Analysis — 80%
 - Programming Worksheets — 98% average (cohort highest)
 
-## Technical Interests
-
-Python · NumPy · SciPy · numerical simulation · statistical analysis · data visualisation · optimisation · scientific computing · portfolio design
 
 📫 How to reach me: home@robertgardner.co.uk
 ⚡ Fun fact: A day on Venus is longer than a year on Venus.
+
+Python · NumPy · SciPy · numerical simulation · statistical analysis · data visualisation · optimisation · scientific computing · portfolio design
