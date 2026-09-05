@@ -12,7 +12,7 @@ Large-scale stochastic cellular-automaton simulation investigating **self-organi
 
 - **74% — First-Class mark** on the original assessed project
 - Optimised Python/NumPy simulation on grids up to **16,000 × 16,000 cells**
-- Individual large-scale runs exceeding **2 trillion cell updates**
+- More than **15 trillion aggregate cell updates** across extended large-scale runs
 - Decaying-sine fitting, parameter sweeps and equilibrium analysis
 - Pure and truncated power-law modelling of fire-size distributions
 - Cluster geometry analysis and an interactive **Streamlit** demonstration
