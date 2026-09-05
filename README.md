@@ -1,8 +1,6 @@
 # Robert Gardner
 
-Physics graduate from the University of Birmingham with interests in scientific computing, numerical simulation and quantitative problem-solving.
-
-My work combines physics, Python and data analysis, with projects spanning stochastic simulation, thin-film optics, signal processing and numerical modelling.
+Physics graduate from the University of Birmingham with interests in scientific computing, numerical simulation and quantitative problem-solving. My work combines physics, Python and data analysis, with projects spanning stochastic simulation, thin-film optics, signal processing and numerical modelling.
 
 ## Featured Projects
 
@@ -36,23 +34,7 @@ Selected results:
 
 ## Technical Interests
 
-Python · NumPy · SciPy · numerical simulation · statistical analysis · data visualisation · optimisation · scientific computing
+Python · NumPy · SciPy · numerical simulation · statistical analysis · data visualisation · optimisation · scientific computing · portfolio design
 
-## Beyond Computing
-
-Competitive triathlon · sailing & navigation · portfolio construction## Hi there 👋
-
-<!--
-**Robert-Study/Robert-Study** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: home@robertgardner.co.uk
+⚡ Fun fact: A day on Venus is longer than a year on Venus.
