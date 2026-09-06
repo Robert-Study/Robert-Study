@@ -1,68 +1,47 @@
 # Robert Gardner
 
-Physics graduate from the **University of Birmingham** focused on scientific computing, numerical simulation and quantitative analysis. I build end-to-end technical workflows that turn simulated or experimental data into interpretable results through modelling, calibration, optimisation, uncertainty analysis and validation.
+I'm a physics graduate from the **University of Birmingham**, with a particular interest in scientific computing and experimental data analysis. My projects involve building models, fitting measurements and checking where the results agree with theory—and where they do not.
 
-My projects span **stochastic simulation, thin-film optics, signal processing, control systems and experimental physics**, with a particular interest in using Python to solve quantitative problems from first principles.
+Most of the work here began during my degree. The repositories have since been developed into runnable examples with tests and clearer documentation.
 
-## Featured Projects
+## Selected projects
 
-### 🔥 [Forest Fire Simulation & Analysis](https://github.com/Robert-Study/Forest-Fire-Analysis)
+### [Nanophysics Group Project](https://github.com/Robert-Study/Rotating-Compensator-Ellipsometry)
 
-Large-scale stochastic cellular-automaton simulation investigating **self-organised criticality, oscillatory population dynamics and fire-size scaling**.
+I led the group project and worked mainly on the rotating-compensator ellipsometry analysis: extracting Ψ and Δ, calibrating the instrument and estimating thin-film properties.
 
-- **74% — First-Class mark** on the original assessed project
-- Optimised Python/NumPy simulation on grids up to **16,000 × 16,000 cells**
-- More than **15 trillion aggregate cell updates** across extended large-scale runs
-- Decaying-sine fitting, parameter sweeps and equilibrium analysis
-- Pure and truncated power-law modelling of fire-size distributions
-- Cluster geometry analysis and an interactive **Streamlit** demonstration
+The silicon-reference analysis gave a thickness of **55 ± 7 nm**, compared with the certified **53.30 nm**. Comparing gold-film measurements with profilometry revealed a strong correlation and a systematic difference between the two thickness scales.
 
-🔗 [Interactive demo](https://forest-fire-analysis.streamlit.app/) · 📄 [Technical report](https://1drv.ms/b/c/4a8cd531de3d2eb8/IQDim1tykc0nTKl1fFVf2T52AaR-wLgcwbBSEvPdq3rfR-U?e=Kbm6k0)
+**71% group mark · 75% individual mark.** The repository links to the report and includes an explanation of my contribution and a runnable synthetic example of the analysis pipeline.
 
-### 🔬 [Rotating-Compensator Ellipsometry](https://github.com/Robert-Study/Rotating-Compensator-Ellipsometry)
+### [Forest Fire Simulation](https://github.com/Robert-Study/Forest-Fire-Analysis)
 
-Python analysis pipeline developed within an eight-person nanophysics project investigating thin-film optical properties and surface plasmon resonance.
+A stochastic cellular automaton exploring how tree growth and lightning produce population oscillations and broad fire-size distributions. I extended the coursework with larger grids, parameter sweeps and analysis of fire events and cluster geometry.
 
-- **Project Leader** for the wider experimental project
-- **71% group mark / 75% individual mark — First-Class**
-- Harmonic fitting, Ψ–Δ extraction and instrument calibration
-- Fresnel–Airy modelling and numerical extraction of film thickness and optical constants
-- Recovered a silicon-reference thickness of **55 ± 7 nm** against a certified **53.30 nm**
-- Gold-film ellipsometry and profilometry tracked the same relative thickness changes with **R² = 0.985**
-- Cross-validated results against a high-resolution industrial ellipsometer
+The report describes runs reaching **16,000 × 16,000 cells**. A smaller seeded example is included so the simulation can be reproduced on an ordinary computer.
 
-📄 [Final project report](https://1drv.ms/b/c/4a8cd531de3d2eb8/IQDELQqEGltQTbL7tnMde-ugARVe41tXLblHZuhFeltOyTY?e=aEIhof)
+**74% on the original project.** [Try the interactive simulation](https://forest-fire-analysis.streamlit.app/).
 
-### 🐍 [Scientific Python Projects](https://github.com/Robert-Study/Scientific-Python-Projects)
+### [Scientific Python Projects](https://github.com/Robert-Study/Scientific-Python-Projects)
 
-Assessed computational-physics projects demonstrating numerical methods, Fourier analysis, simulation and feedback control.
+Computational physics coursework covering finite quantum wells, Fourier analysis and rocket control. The public examples include a bound-state solver checked against an independent finite-difference calculation, and a synthetic signal-filtering demonstration.
 
-| Project | Result | Core methods |
-| --- | ---: | --- |
-| Quantum Systems | **95%** | Finite square well, numerical root finding, bisection |
-| Self-Landing Rockets | **90%** *(cohort highest)* | Dynamics identification, open-loop control, P/PD feedback |
-| Spectral Analysis | **80%** | FFTs, transfer functions, frequency-domain filtering |
-| Programming Worksheets | **98% average** *(cohort highest)* | Scientific Python and numerical methods |
+| Assessed work | Mark |
+| --- | ---: |
+| Quantum systems | 95% |
+| Self-landing rockets | 90% |
+| Spectral analysis | 80% |
+| Programming worksheets | 98% average |
 
-## Selected Experimental Research
+## Experimental work
 
-### ⚛️ Doppler-Free Laser Spectroscopy on Rubidium — **77% (First-Class)**
+- **[Atomic Physics Laboratory](research/atomic-physics-laboratory.md)** — Doppler-free rubidium spectroscopy, frequency calibration and hyperfine-constant estimation. **77%.**
+- **[Gibbs–Marangoni Effect: Summer Research Project](research/gibbs-marangoni-effect-summer-research-project.md)** — Laser interferometry and capillary-wave attenuation, including the limits imposed by measurement uncertainty and control of the liquid surface.
 
-Used saturated-absorption spectroscopy, Fabry–Pérot frequency calibration, Gaussian/Lorentzian fitting and uncertainty-weighted analysis to resolve the hyperfine structure of the rubidium D₂ transition and extract coupling constants consistent with literature values.
+## Other work
 
-📄 [Atomic Physics Laboratory report](https://1drv.ms/b/c/4a8cd531de3d2eb8/IQCydZCXEyXXRYGX54IusWuyAX9yCW92tuoZgfGBUgo1yqQ?e=XzBLd3)
+[Binary Search Tree Optimisation](https://github.com/Robert-Study/Binary-Search-Tree-Optimisation) studies how a distribution over tree roots changes the expected reward for each key. The current analysis uses linear programming to examine the trade-off between average reward and the worst outcome.
 
-### 🌊 Gibbs–Marangoni Capillary-Wave Research
+**Main tools:** Python, NumPy, SciPy, Matplotlib, pandas, Streamlit, Git and LaTeX.
 
-Independent summer research using **laser interferometry** and Python curve fitting to measure capillary-wave attenuation. A thin oil film increased the measured decay coefficient by approximately **91% relative to water**, providing evidence for an additional Gibbs–Marangoni dissipation mechanism beyond the effect of surface tension alone.
-
-📄 [Summer Research Project report](https://1drv.ms/b/c/4a8cd531de3d2eb8/IQB8Hye49FXSR7A0i2hvo-G8Ab0BsuLALmtz2v9vtYWGD7U?e=uABOP4)
-
-## Tools & Methods
-
-`Python` · `NumPy` · `SciPy` · `Matplotlib` · `Streamlit` · numerical simulation · numerical optimisation · statistical fitting · uncertainty analysis · signal processing · Fourier analysis · scientific visualisation · Git/GitHub · Excel · LaTeX
-
-## Contact
-
-📫 [home@robertgardner.co.uk](mailto:home@robertgardner.co.uk)  
-⚡ Fun fact: A day on Venus is longer than a year on Venus.
+[home@robertgardner.co.uk](mailto:home@robertgardner.co.uk)
