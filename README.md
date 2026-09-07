@@ -42,6 +42,8 @@ I'm a physics graduate from the **University of Birmingham** with interests in s
 
 <p>Gaussian and Lorentzian fits provided resonance centres and linewidths for estimating magnetic-dipole and electric-quadrupole coupling constants. I also examined how frequency-sweep nonlinearity, alignment and power broadening affected the measurements.</p>
 
+<p><a href="https://1drv.ms/b/c/4a8cd531de3d2eb8/IQCydZCXEyXXRYGX54IusWuyAX9yCW92tuoZgfGBUgo1yqQ?e=XzBLd3">Read the laboratory report</a></p>
+
 <p><strong>77% | First Class</strong></p>
 
 </td>
