@@ -42,9 +42,9 @@ I'm a **Physics BSc (Hons) graduate from the University of Birmingham**, interes
 
 <p><strong>Signal extraction · Spectral fitting</strong></p>
 
-<p>I used Doppler-free spectroscopy to resolve rubidium's hyperfine structure. My analysis aligned oscilloscope recordings, separated broad absorption from narrow resonances and calibrated the frequency axis using a Fabry–Pérot cavity.</p>
+<p>I used Doppler-free spectroscopy to resolve rubidium's hyperfine structure. My analysis aligned oscilloscope recordings, separated broad absorption from narrow resonances and calibrated frequency using a Fabry–Pérot cavity.</p>
 
-<p>Gaussian and Lorentzian fits yielded resonance centres and linewidths for estimating magnetic-dipole and electric-quadrupole coupling constants. I assessed how frequency calibration, laser-sweep nonlinearity and power broadening influenced the results and their uncertainty.</p>
+<p>Gaussian and Lorentzian fits yielded resonance centres and linewidths for estimating quantum properties. I assessed how frequency calibration, laser-sweep nonlinearity and power broadening influenced the results and their uncertainty.</p>
 
 <p><strong>77% | First Class</strong><br>
 <a href="https://1drv.ms/b/c/4a8cd531de3d2eb8/IQCydZCXEyXXRYGX54IusWuyAX9yCW92tuoZgfGBUgo1yqQ?e=XzBLd3">Read the laboratory report</a></p>
