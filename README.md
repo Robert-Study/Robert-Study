@@ -33,7 +33,7 @@ The projects below expand on my CV with source code, results and laboratory repo
 <p>Vectorised NumPy operations, compact arrays and careful memory management enabled <strong>2 trillion+ cell-time updates per large simulation</strong> and <strong>15 trillion+ across the project</strong></p>
 
 <p><strong>74% | First Class</strong> · Extended after assessment<br>
-<a href="https://forest-fire-analysis.streamlit.app/">Interactive simulation</a> · <a href="https://1drv.ms/b/c/4a8cd531de3d2eb8/IQDim1tykc0nTKl1fFVf2T52AaR-wLgcwbBSEvPdq3rfR-U?e=Kbm6k0">Project report</a></p>
+<a href="https://forest-fire-analysis.streamlit.app/">Interactive simulation</a> <br> <a href="https://1drv.ms/b/c/4a8cd531de3d2eb8/IQDim1tykc0nTKl1fFVf2T52AaR-wLgcwbBSEvPdq3rfR-U?e=Kbm6k0">Read the Project report</a></p>
 
 </td>
 </tr>
