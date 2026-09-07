@@ -16,7 +16,7 @@ I'm a **Physics BSc (Hons) graduate from the University of Birmingham**, interes
 
 <p>My improved setup and analysis tracked Ψ and Δ approximately <strong>25× more closely than previous-year implementations</strong>. A calibration technique I developed reduced the remaining error by a <strong>further factor of two</strong>, giving a thickness of thin-films accuracy approaching nanometers.</p>
 
-<p><strong>71% group · 75% individual | First Class</strong><br>
+<p><strong>71% group · 75% individual | First-Class</strong><br>
 <a href="https://1drv.ms/b/c/4a8cd531de3d2eb8/IQDELQqEGltQTbL7tnMde-ugARVe41tXLblHZuhFeltOyTY?e=aEIhof">Read the project report</a></p>
 
 </td>
@@ -30,7 +30,7 @@ I'm a **Physics BSc (Hons) graduate from the University of Birmingham**, interes
 
 <p>Vectorised NumPy operations, compact arrays and careful memory management enabled <strong>2 trillion+ cell-time updates per large simulation</strong> and <strong>15 trillion+ across the project.</strong></p>
 
-<p><strong>74% | First Class</strong> · Extended after assessment<br>
+<p><strong>74% | First-Class</strong> · Extended after assessment<br>
 <a href="https://forest-fire-analysis.streamlit.app/">Interactive simulation</a> <br> <a href="https://1drv.ms/b/c/4a8cd531de3d2eb8/IQDim1tykc0nTKl1fFVf2T52AaR-wLgcwbBSEvPdq3rfR-U?e=Kbm6k0">Read the project report</a></p>
 
 </td>
@@ -46,7 +46,7 @@ I'm a **Physics BSc (Hons) graduate from the University of Birmingham**, interes
 
 <p>Gaussian and Lorentzian fits yielded resonance centres and linewidths for estimating quantum properties. I assessed how frequency calibration, laser-sweep nonlinearity and power broadening influenced the results and their uncertainty.</p>
 
-<p><strong>77% | First Class</strong><br>
+<p><strong>77% | First-Class</strong><br>
 <a href="https://1drv.ms/b/c/4a8cd531de3d2eb8/IQCydZCXEyXXRYGX54IusWuyAX9yCW92tuoZgfGBUgo1yqQ?e=XzBLd3">Read the laboratory report</a></p>
 
 </td>
