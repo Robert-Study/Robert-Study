@@ -30,7 +30,7 @@ The projects below expand on my CV with source code, results and laboratory repo
 
 <p>I developed a <strong>stochastic forest-fire model</strong> investigating population dynamics, fire-size distributions and cluster geometry. I extended the assessed coursework with larger simulations, parameter sweeps, individual fire tracking and an interactive application for exploring the model.</p>
 
-<p>Vectorised NumPy operations, compact arrays and careful memory management enabled <strong>2 trillion+ cell-time updates per large simulation</strong> and <strong>15 trillion+ across the project</strong>. I analysed population oscillations and fire-size distributions, with periodic boundaries allowing fires to spread continuously across the edges of the grid.</p>
+<p>Vectorised NumPy operations, compact arrays and careful memory management enabled <strong>2 trillion+ cell-time updates per large simulation</strong> and <strong>15 trillion+ across the project</strong></p>
 
 <p><strong>74% | First Class</strong> · Extended after assessment<br>
 <a href="https://forest-fire-analysis.streamlit.app/">Interactive simulation</a> · <a href="https://1drv.ms/b/c/4a8cd531de3d2eb8/IQDim1tykc0nTKl1fFVf2T52AaR-wLgcwbBSEvPdq3rfR-U?e=Kbm6k0">Project report</a></p>
