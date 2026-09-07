@@ -8,20 +8,21 @@ I'm a physics graduate from the **University of Birmingham** with interests in s
 <tr>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/Robert-Study/Rotating-Compensator-Ellipsometry">Nanophysics Group Project</a></h3>
+<h3><a href="https://github.com/Robert-Study/Rotating-Compensator-Ellipsometry">Nanophysics Group Project (Best lab work)</a></h3>
 
 <p>I led an <strong>eight-person project</strong> investigating thin films and surface plasmon resonance. My main work covered rotating-compensator ellipsometry, Ψ–Δ extraction, instrument calibration and film-property estimation.</p>
 
-<p>My improved setup and analysis tracked Ψ and Δ approximately <strong>25× more closely than previous-year implementations</strong>. A new calibration technique reduced the remaining tracking error by a <strong>further factor of two</strong>, enabling silicon-oxide thickness measurements of <strong>55 ± 7 nm</strong>, compared with the certified <strong>53.30 nm</strong>.</p>
+<p>My improved setup and analysis tracked Ψ and Δ approximately <strong>25× more closely than previous-year implementations</strong>. I designed a new calibration technique, enabling thin-film thickness measurements at near nanometer precision.
 
-<p><strong>71% group mark · 75% individual mark<br>First Class</strong></p>
+<p><strong>71% group mark · 75% individual mark | First Class</strong></p>
+
 
 <p><a href="https://1drv.ms/b/c/4a8cd531de3d2eb8/IQDELQqEGltQTbL7tnMde-ugARVe41tXLblHZuhFeltOyTY?e=aEIhof">Read the project report</a></p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/Robert-Study/Forest-Fire-Analysis">Forest Fire Simulation</a></h3>
+<h3><a href="https://github.com/Robert-Study/Forest-Fire-Analysis">Forest Fire Simulation (Best simulation project)</a></h3>
 
 <p>I developed a stochastic forest-fire model to study population oscillations, fire-size distributions and cluster geometry. I expanded the original coursework with larger simulations, parameter sweeps, event tracking and an interactive online simulation.</p>
 
@@ -49,7 +50,7 @@ I'm a physics graduate from the **University of Birmingham** with interests in s
 </td>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/Robert-Study/Binary-Search-Tree-Optimisation">Binary Search Tree Optimisation</a></h3>
+<h3><a href="https://github.com/Robert-Study/Binary-Search-Tree-Optimisation">Binary Search Tree Optimisation (personal project)</a></h3>
 
 <p>An optimisation study examining how root selection affects each key's expected reward in a binary search tree. For a 100-key model with rewards decreasing with search depth, the current solution uses roots <strong>4–82</strong> to give every key a positive expected reward.</p>
 
@@ -60,7 +61,7 @@ I'm a physics graduate from the **University of Birmingham** with interests in s
 <tr>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/Robert-Study/Scientific-Python-Projects">Scientific Python Projects &amp; Worksheets</a></h3>
+<h3><a href="https://github.com/Robert-Study/Scientific-Python-Projects">Scientific Python Projects: personal projects) &amp; Worksheets</a></h3>
 
 <p>Computational-physics coursework covering quantum systems, Fourier analysis, signal filtering and rocket control, alongside six scientific-programming worksheets. My work included finding bound-state energies, identifying electronic filters, recovering noisy signals and designing feedback controllers.</p>
 
