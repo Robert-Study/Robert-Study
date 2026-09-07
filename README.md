@@ -1,6 +1,8 @@
 # Robert Gardner
 
-I'm a **Physics BSc (Hons) graduate from the University of Birmingham**, interested in scientific computing, experimental data analysis and numerical modelling. My work combines physical models with measurements, simulation and optimisation.
+I'm a **Physics BSc (Hons) graduate from the University of Birmingham**, interested in scientific computing, experimental data analysis and numerical modelling. I use Python to build simulations, analyse measurements and solve optimisation problems.
+
+The projects below expand on my CV with source code, results and laboratory reports.
 
 ## Selected projects
 
@@ -8,13 +10,13 @@ I'm a **Physics BSc (Hons) graduate from the University of Birmingham**, interes
 <tr>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/Robert-Study/Rotating-Compensator-Ellipsometry">Nanophysics Group Project</a></h3>
+<h3><a href="https://github.com/Robert-Study/Rotating-Compensator-Ellipsometry">Nanophysics<br>Group Project</a></h3>
 
-<p><strong>Experimental leadership · Optical measurement</strong></p>
+<p><strong>Project leadership · Instrument calibration</strong></p>
 
-<p>I led an <strong>eight-person project</strong> investigating thin films and surface plasmon resonance. My main work covered rotating-compensator ellipsometry, Ψ–Δ extraction, instrument calibration and film-property estimation.</p>
+<p>I led an <strong>eight-person experimental project</strong> investigating thin films and surface plasmon resonance. My main contribution combined rotating-compensator ellipsometry, Ψ–Δ extraction and instrument calibration to estimate film properties from optical measurements.</p>
 
-<p>My improved setup and analysis tracked Ψ and Δ approximately <strong>25× more closely than previous-year implementations</strong>. I developed a calibration technique that reduced the remaining tracking error by a <strong>further factor of two</strong>, measuring a silicon-oxide film at <strong>55 ± 7 nm</strong> against its certified <strong>53.30 nm</strong>.</p>
+<p>My improved setup and analysis tracked Ψ and Δ approximately <strong>25× more closely than previous-year implementations</strong>. A calibration technique I developed reduced the remaining error by a <strong>further factor of two</strong>, giving a thickness of <strong>55 ± 7 nm</strong> against the certified <strong>53.30 nm</strong>.</p>
 
 <p><strong>71% group · 75% individual | First Class</strong><br>
 <a href="https://1drv.ms/b/c/4a8cd531de3d2eb8/IQDELQqEGltQTbL7tnMde-ugARVe41tXLblHZuhFeltOyTY?e=aEIhof">Read the project report</a></p>
@@ -22,13 +24,13 @@ I'm a **Physics BSc (Hons) graduate from the University of Birmingham**, interes
 </td>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/Robert-Study/Forest-Fire-Analysis">Forest Fire Simulation</a></h3>
+<h3><a href="https://github.com/Robert-Study/Forest-Fire-Analysis">Forest Fire<br>Simulation</a></h3>
 
-<p><strong>Large-scale simulation · Performance optimisation</strong></p>
+<p><strong>Large-scale simulation · Data modelling</strong></p>
 
-<p>I developed a stochastic forest-fire model to investigate population dynamics, fire-size distributions and cluster geometry. I extended the coursework with larger simulations, parameter sweeps, individual fire tracking and an interactive application.</p>
+<p>I developed a <strong>stochastic forest-fire model</strong> investigating population dynamics, fire-size distributions and cluster geometry. I extended the assessed coursework with larger simulations, parameter sweeps, individual fire tracking and an interactive application for exploring the model.</p>
 
-<p>Using vectorised NumPy operations, compact arrays and careful memory management to process <strong>2 trillion+ cell-time updates per simulation</strong> or <strong>15 trillion+ across the project</strong></p>
+<p>Vectorised NumPy operations, compact arrays and careful memory management enabled <strong>2 trillion+ cell-time updates per large simulation</strong> and <strong>15 trillion+ across the project</strong>. I analysed population oscillations and fire-size distributions, with periodic boundaries allowing fires to spread continuously across the edges of the grid.</p>
 
 <p><strong>74% | First Class</strong> · Extended after assessment<br>
 <a href="https://forest-fire-analysis.streamlit.app/">Interactive simulation</a> · <a href="https://1drv.ms/b/c/4a8cd531de3d2eb8/IQDim1tykc0nTKl1fFVf2T52AaR-wLgcwbBSEvPdq3rfR-U?e=Kbm6k0">Project report</a></p>
@@ -38,11 +40,13 @@ I'm a **Physics BSc (Hons) graduate from the University of Birmingham**, interes
 <tr>
 <td width="50%" valign="top">
 
-<h3><a href="https://1drv.ms/b/c/4a8cd531de3d2eb8/IQCydZCXEyXXRYGX54IusWuyAX9yCW92tuoZgfGBUgo1yqQ?e=XzBLd3">Atomic Physics Laboratory</a></h3>
+<h3><a href="https://1drv.ms/b/c/4a8cd531de3d2eb8/IQCydZCXEyXXRYGX54IusWuyAX9yCW92tuoZgfGBUgo1yqQ?e=XzBLd3">Atomic Physics<br>Laboratory</a></h3>
 
-<p>I used Doppler-free laser spectroscopy to resolve rubidium's hyperfine structure. My analysis aligned oscilloscope recordings, separated broad absorption from narrow resonances and calibrated frequency using a Fabry–Pérot cavity.</p>
+<p><strong>Signal extraction · Spectral fitting</strong></p>
 
-<p>Gaussian and Lorentzian fits yielded resonance centres and linewidths for estimating magnetic-dipole and electric-quadrupole coupling constants. I examined how calibration, laser-sweep nonlinearity and power broadening affected the results.</p>
+<p>I used Doppler-free spectroscopy to resolve rubidium's hyperfine structure. My analysis aligned oscilloscope recordings, separated broad absorption from narrow resonances and calibrated the frequency axis using a Fabry–Pérot cavity.</p>
+
+<p>Gaussian and Lorentzian fits yielded resonance centres and linewidths for estimating magnetic-dipole and electric-quadrupole coupling constants. I assessed how frequency calibration, laser-sweep nonlinearity and power broadening influenced the results and their uncertainty.</p>
 
 <p><strong>77% | First Class</strong><br>
 <a href="https://1drv.ms/b/c/4a8cd531de3d2eb8/IQCydZCXEyXXRYGX54IusWuyAX9yCW92tuoZgfGBUgo1yqQ?e=XzBLd3">Read the laboratory report</a></p>
@@ -50,37 +54,46 @@ I'm a **Physics BSc (Hons) graduate from the University of Birmingham**, interes
 </td>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/Robert-Study/Binary-Search-Tree-Optimisation">Binary Search Tree Optimisation</a></h3>
+<h3><a href="https://github.com/Robert-Study/Binary-Search-Tree-Optimisation">Binary Search Tree<br>Optimisation</a></h3>
 
-<p>A personal optimisation project examining how root selection affects rewards in a <strong>100-key binary search tree</strong>, with rewards decreasing with search depth.</p>
+<p><strong>Algorithm design · Constrained optimisation</strong></p>
 
-<p>The implemented strategy finds the smallest feasible root range, then maximises mean reward while keeping every key's expected reward positive. The solution spans <strong>roots 4–82</strong> and achieves a <strong>mean expected reward of 0.131744</strong> under the defined tree model.</p>
+<p>I investigated how root selection affects expected rewards in a <strong>100-key binary search tree</strong>. The strategy finds the smallest feasible root range, then maximises mean reward while keeping every key's expected reward positive.</p>
 
-<p>I intend to explore alternative tree constructions to achieve a narrower root range or higher mean reward.</p>
+<p>The implemented solution spans <strong>roots 4–82</strong> and achieves a <strong>mean expected reward of 0.131744</strong> under the defined model. I intend to explore alternative tree constructions that could narrow the range or improve the mean.</p>
+
+<p><strong>Personal project | Implemented solution</strong><br>
+<a href="https://github.com/Robert-Study/Binary-Search-Tree-Optimisation">Explore the method and results</a></p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/Robert-Study/Scientific-Python-Projects">Scientific Python Projects &amp; Worksheets</a></h3>
+<h3><a href="https://github.com/Robert-Study/Scientific-Python-Projects">Scientific Python<br>Projects &amp; Worksheets</a></h3>
 
-<p>Computational physics covering quantum energy levels, Fourier analysis, signal filtering and rocket feedback control. Six worksheets extend this to probability, nuclear binding energies, lattice sums, electrostatics and Monte Carlo methods.</p>
+<p><strong>Scientific reasoning · Feedback control</strong></p>
 
-<p><strong>Quantum systems: 95% · Spectral analysis: 80%</strong><br>
-<strong>Self-landing rockets: 90%, cohort highest</strong><br>
-<strong>Worksheets: 98% average, cohort highest</strong></p>
+<p>I modelled quantum energy levels, analysed electronic filters, recovered noisy signals and designed rocket feedback controllers. Six worksheets covered probability, nuclear binding energies, lattice sums, electrostatics and Monte Carlo methods.</p>
+
+<p>The work combined numerical methods with physical interpretation, from finding bound states to controlling motion. My <strong>rocket project and programming worksheets both ranked highest in the cohort</strong>.</p>
+
+<p><strong>Quantum: 95% · Spectral analysis: 80%<br>
+Rockets: 90% · Worksheets: 98% average</strong></p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3><a href="https://1drv.ms/b/c/4a8cd531de3d2eb8/IQB8Hye49FXSR7A0i2hvo-G8Ab0BsuLALmtz2v9vtYWGD7U?e=uABOP4">Gibbs–Marangoni Effect</a></h3>
+<h3><a href="https://1drv.ms/b/c/4a8cd531de3d2eb8/IQB8Hye49FXSR7A0i2hvo-G8Ab0BsuLALmtz2v9vtYWGD7U?e=uABOP4">Gibbs–Marangoni Effect<br>Summer Research Project</a></h3>
 
-<p><strong>Summer research · Laser interferometry</strong></p>
+<p><strong>Experimental research · Optical measurement</strong></p>
 
-<p>I investigated how thin surface films affect capillary-wave damping, comparing water, an acetone solution and an olive-oil-covered surface. My analysis corrected laser-intensity fluctuations, modelled the detector response and used uncertainty-weighted fits to estimate attenuation from wave amplitudes measured at different distances.</p>
+<p>I investigated how thin surface films affect capillary-wave damping. Using laser interferometry, I measured wave amplitudes at different distances, comparing water, an acetone solution and an olive-oil-covered surface.</p>
 
-<p><a href="https://1drv.ms/b/c/4a8cd531de3d2eb8/IQB8Hye49FXSR7A0i2hvo-G8Ab0BsuLALmtz2v9vtYWGD7U?e=uABOP4">Read the research report</a></p>
+<p>My analysis corrected laser-intensity fluctuations, modelled the detector response and used <strong>uncertainty-weighted fits</strong> to estimate attenuation, examining how the surface film changed the decay of the waves.</p>
+
+<p><strong>Summer research | Independent project</strong><br>
+<a href="https://1drv.ms/b/c/4a8cd531de3d2eb8/IQB8Hye49FXSR7A0i2hvo-G8Ab0BsuLALmtz2v9vtYWGD7U?e=uABOP4">Read the research report</a></p>
 
 </td>
 </tr>
