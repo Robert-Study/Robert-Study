@@ -10,7 +10,7 @@ The projects below expand on my CV with source code, results and laboratory repo
 <tr>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/Robert-Study/Rotating-Compensator-Ellipsometry">Nanophysics<br>Group Project</a></h3>
+<h3><a href="https://github.com/Robert-Study/Rotating-Compensator-Ellipsometry">Nanophysics Group Project</a></h3>
 
 <p><strong>Project leadership · Instrument calibration</strong></p>
 
