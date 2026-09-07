@@ -12,7 +12,7 @@ I'm a **Physics BSc (Hons) graduate from the University of Birmingham**, interes
 
 <p><strong>Project leadership · Instrument calibration</strong></p>
 
-<p>I led an <strong>eight-person experimental project</strong> investigating thin films and surface plasmon resonance. My main contribution combined rotating-compensator ellipsometry, Ψ–Δ extraction and instrument calibration to estimate film properties from optical measurements.</p>
+<p>I led an <strong>eight-person experimental project</strong> investigating thin films and surface plasmon resonance. My main contribution combined rotating-compensator ellipsometry, Ψ–Δ extraction and instrument calibration to estimate film properties.</p>
 
 <p>My improved setup and analysis tracked Ψ and Δ approximately <strong>25× more closely than previous-year implementations</strong>. A calibration technique I developed reduced the remaining error by a <strong>further factor of two</strong>, giving a thickness of thin-films accuracy approaching nanometers.</p>
 
