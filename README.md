@@ -52,15 +52,15 @@ I'm a **Physics BSc (Hons) graduate from the University of Birmingham**, interes
 </td>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/Robert-Study/Binary-Search-Tree-Optimisation">Binary Search Tree Analysis</a></h3>
+<h3><a href="https://github.com/Robert-Study/Binary-Search-Tree-Optimisation">Algorithmic optimisation challenge</a></h3>
 
 <p><strong>Algorithm design · Constrained optimisation</strong></p>
 
-<p>I investigated how root selection affects expected rewards in a <strong>100-key binary search tree</strong>. The strategy finds the smallest feasible root range, then maximises mean reward while keeping every key's expected reward positive.</p>
+<p>I investigated how root in binary search trees affect expected rewards in a <strong>100-key binary search tree</strong>. The strategy finds the smallest feasible root range, then maximises mean reward while keeping every key's expected reward positive.</p>
 
 <p>The implemented solution spans <strong>roots 4–82</strong> and achieves a <strong>mean expected reward of 0.131744</strong> under the defined model. I intend to explore alternative tree constructions that could narrow the range or improve the mean.</p>
 
-<p><strong>Personal project | Implemented solution</strong><br>
+<p><strong>Algorithmic optimisation challenge £50 3rd place</strong><br>
 <a href="https://github.com/Robert-Study/Binary-Search-Tree-Optimisation">Explore the method and results</a></p>
 
 </td>
