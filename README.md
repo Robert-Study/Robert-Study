@@ -24,7 +24,7 @@ The projects below expand on my CV with source code, results and laboratory repo
 </td>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/Robert-Study/Forest-Fire-Analysis">Forest Fire<br>Simulation</a></h3>
+<h3><a href="https://github.com/Robert-Study/Forest-Fire-Analysis">Forest Fire Simulation</a></h3>
 
 <p><strong>Large-scale simulation · Data modelling</strong></p>
 
