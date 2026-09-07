@@ -1,6 +1,6 @@
 # Robert Gardner
 
-I'm a physics graduate from the **University of Birmingham** with interests in scientific computing, experimental data analysis and numerical modelling. My work combines physical models with experimental measurements, simulation and optimisation.
+I'm a physics BSc with hounours graduate from the **University of Birmingham** with interests in scientific computing, experimental data analysis and numerical modelling. My work combines physical models with experimental measurements, simulation and optimisation.
 
 ## Selected projects
 
@@ -24,11 +24,11 @@ I'm a physics graduate from the **University of Birmingham** with interests in s
 
 <h3><a href="https://github.com/Robert-Study/Forest-Fire-Analysis">Forest Fire Simulation (Best simulation project)</a></h3>
 
-<p>I developed a stochastic forest-fire model to study population oscillations, fire-size distributions and cluster geometry. I expanded the original coursework with larger simulations, parameter sweeps, event tracking and an interactive online simulation.</p>
+<p>I developed a stochastic forest-fire model to study population dynamics, fire-size distributions and cluster geometry. I expanded the original coursework with larger simulations, parameter sweeps, event tracking and an interactive online simulation.</p>
 
 <p>Using vectorised operations and careful memory management, I optimised the model to handle <strong>2 trillion+ cell-time updates per large simulation</strong>, with <strong>15 trillion+ across the project</strong>.</p>
 
-<p><strong>74% | First Class</strong></p>
+<p><strong>74% | First Class</strong></p> Since expanded on
 
 <p><a href="https://forest-fire-analysis.streamlit.app/">Try the interactive simulation</a> · <a href="https://1drv.ms/b/c/4a8cd531de3d2eb8/IQDim1tykc0nTKl1fFVf2T52AaR-wLgcwbBSEvPdq3rfR-U?e=Kbm6k0">Read the project report</a></p>
 
