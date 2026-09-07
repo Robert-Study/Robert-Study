@@ -2,8 +2,6 @@
 
 I'm a **Physics BSc (Hons) graduate from the University of Birmingham**, interested in scientific computing, experimental data analysis and numerical modelling. I use Python to build simulations, analyse measurements and solve optimisation problems.
 
-The projects below expand on my CV with source code, results and laboratory reports.
-
 ## Selected projects
 
 <table>
@@ -16,7 +14,7 @@ The projects below expand on my CV with source code, results and laboratory repo
 
 <p>I led an <strong>eight-person experimental project</strong> investigating thin films and surface plasmon resonance. My main contribution combined rotating-compensator ellipsometry, Ψ–Δ extraction and instrument calibration to estimate film properties from optical measurements.</p>
 
-<p>My improved setup and analysis tracked Ψ and Δ approximately <strong>25× more closely than previous-year implementations</strong>. A calibration technique I developed reduced the remaining error by a <strong>further factor of two</strong>, giving a thickness of <strong>55 ± 7 nm</strong> against the certified <strong>53.30 nm</strong>.</p>
+<p>My improved setup and analysis tracked Ψ and Δ approximately <strong>25× more closely than previous-year implementations</strong>. A calibration technique I developed reduced the remaining error by a <strong>further factor of two</strong>, giving a thickness of thin-films accuracy approaching nanometers.</p>
 
 <p><strong>71% group · 75% individual | First Class</strong><br>
 <a href="https://1drv.ms/b/c/4a8cd531de3d2eb8/IQDELQqEGltQTbL7tnMde-ugARVe41tXLblHZuhFeltOyTY?e=aEIhof">Read the project report</a></p>
