@@ -28,7 +28,7 @@ I'm a **Physics BSc (Hons) graduate from the University of Birmingham**, interes
 
 <p>I developed a stochastic forest-fire model to investigate population dynamics, fire-size distributions and cluster geometry. I extended the coursework with larger simulations, parameter sweeps, individual fire tracking and an interactive application.</p>
 
-<p>Using vectorised NumPy operations, compact arrays and careful memory management, I scaled the model to <strong>2 trillion+ cell-time updates per large simulation</strong> and <strong>15 trillion+ across the project</strong>. Periodic boundaries allow fires to spread across grid edges, while statistical analysis examines population oscillations and event-size distributions.</p>
+<p>Using vectorised NumPy operations, compact arrays and careful memory management to process <strong>2 trillion+ cell-time updates per simulation</strong> or <strong>15 trillion+ across the project</strong></p>
 
 <p><strong>74% | First Class</strong> · Extended after assessment<br>
 <a href="https://forest-fire-analysis.streamlit.app/">Interactive simulation</a> · <a href="https://1drv.ms/b/c/4a8cd531de3d2eb8/IQDim1tykc0nTKl1fFVf2T52AaR-wLgcwbBSEvPdq3rfR-U?e=Kbm6k0">Project report</a></p>
