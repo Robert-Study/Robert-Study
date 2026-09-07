@@ -40,7 +40,7 @@ The projects below expand on my CV with source code, results and laboratory repo
 <tr>
 <td width="50%" valign="top">
 
-<h3><a href="https://1drv.ms/b/c/4a8cd531de3d2eb8/IQCydZCXEyXXRYGX54IusWuyAX9yCW92tuoZgfGBUgo1yqQ?e=XzBLd3">Atomic Physics<br>Laboratory</a></h3>
+<h3><a href="https://1drv.ms/b/c/4a8cd531de3d2eb8/IQCydZCXEyXXRYGX54IusWuyAX9yCW92tuoZgfGBUgo1yqQ?e=XzBLd3">Atomic Physics Laboratory</a></h3>
 
 <p><strong>Signal extraction · Spectral fitting</strong></p>
 
@@ -54,7 +54,7 @@ The projects below expand on my CV with source code, results and laboratory repo
 </td>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/Robert-Study/Binary-Search-Tree-Optimisation">Binary Search Tree<br>Optimisation</a></h3>
+<h3><a href="https://github.com/Robert-Study/Binary-Search-Tree-Optimisation">Binary Search Tree Analysis</a></h3>
 
 <p><strong>Algorithm design · Constrained optimisation</strong></p>
 
