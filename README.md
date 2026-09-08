@@ -1,6 +1,6 @@
 # Robert Gardner
 
-I'm a **Physics BSc (Hons) graduate from the University of Birmingham**, interested in scientific computing, experimental data analysis and numerical modelling. I use Python to build simulations, analyse measurements and solve optimisation problems.
+I'm a **Physics BSc (Hons) graduate from the University of Birmingham**, ranked [5th in the UK for Physics](https://www.thecompleteuniversityguide.co.uk/league-tables/rankings/physics-and-astronomy). My interests include scientific computing, experimental data analysis and numerical modelling. I use Python to build simulations, analyse measurements and solve optimisation problems.
 
 ## Selected projects
 
