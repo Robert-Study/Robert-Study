@@ -77,7 +77,7 @@ I'm a **Physics BSc (Hons) graduate from the University of Birmingham**, [ranked
 <p>The work combined numerical methods with physical interpretation, from finding bound states to controlling motion. My <strong>rocket project and programming worksheets both ranked highest in the cohort</strong>.</p>
 
 <p><strong>Quantum: 95% · Spectral analysis: 80%<br>
-Rockets: 90% · Worksheets: 98% average</strong></p>
+Rockets: 90% · Worksheets: 98% average.</strong></p>
 
 </td>
 <td width="50%" valign="top">
