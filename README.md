@@ -1,6 +1,6 @@
 # Robert Gardner
 
-I'm a **Physics BSc (Hons) graduate from the University of Birmingham**, ranked 4th in the UK for Physics. My interests include scientific computing, experimental data analysis and numerical modelling. I use Python to build simulations, analyse measurements and solve optimisation problems.
+I'm a **Physics graduate and Commercial & Operations Analyst at Breathe Partners**, working across quantitative analysis, forecasting and optimisation. I use **Python, NumPy and SciPy** to build simulations, analyse data and solve technical problems, alongside **Excel** for commercial modelling and investment prioritisation.
 
 ## Selected projects
 
@@ -99,4 +99,4 @@ Rockets: 90% · Worksheets: 98% average.</strong></p>
 
 **Main tools:** Python, NumPy, SciPy, Matplotlib, pandas, Streamlit, Git and LaTeX.
 
-**Email:** [home@robertgardner.co.uk](mailto:home@robertgardner.co.uk)
+**Email:** [mail@robertgardner.co.uk](mailto:mail@robertgardner.co.uk)
