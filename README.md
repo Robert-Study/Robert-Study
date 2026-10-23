@@ -1,6 +1,6 @@
 # Robert Gardner
 
-I'm a **Physics graduate and Commercial & Operations Analyst at Breathe Partners**, working across quantitative analysis, forecasting and optimisation. I use **Python, NumPy and SciPy** to build simulations, analyse data and solve technical problems, alongside **Excel** for commercial modelling and investment prioritisation.
+I'm a **Physics student at UoB and Commercial & Operations Analyst at Breathe Partners**, working across quantitative analysis, forecasting and optimisation. I use **Python, NumPy and SciPy** to build simulations, analyse data and solve technical problems, alongside **Excel** for commercial modelling and investment prioritisation.
 
 ## Selected projects
 
